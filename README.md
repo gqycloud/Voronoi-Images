@@ -7,7 +7,7 @@ Processes images as follows:
 3) Generate voronoi facets from feature points
 4) Average out the color within each feature facet to create abstract tesselations
 
-Example: 
+Examples of processed images: 
 
 TestImage: 
 
