@@ -10,16 +10,21 @@ Processes images as follows:
 Example: 
 
 TestImage: 
+
 ![testImage](/testImage.jpg)
 
 SURF feature detection: 
+
 ![SURF](/SURF.jpg)
 
 FAST feature detection: 
+
 ![FAST](/FAST.jpg)
 
 BRIEF feature detection: 
+
 ![BRIEF](/BRIEF.jpg)
 
 ORB feature detection: 
+
 ![ORB](/ORB.jpg)
