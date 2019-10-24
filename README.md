@@ -9,7 +9,7 @@ Processes images as follows:
 
 Examples of processed images: 
 
-TestImage: 
+Original Image: 
 
 ![testImage](/testImage.jpg)
 
